@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e4a7a56963787252",
+    "type": "split",
+    "children": [
+      {
+        "id": "156ce3a984a207af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121de982eca73316",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+                "page": 41,
+                "left": -12,
+                "top": 373,
+                "zoom": 1.2070707070707074
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "095cc65414a8ff84",
+    "type": "split",
+    "children": [
+      {
+        "id": "1979d6cbff4d97d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97eff44c822973cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0de1a2deb6f1238e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba8c33aa0f86d3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.50390243530273
+  },
+  "right": {
+    "id": "c9c85e848de4d200",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f3a15c609fadcaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ac3a4fda4c3843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf00371815bdd9db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99cdfcbff65e9dec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34f02b173a6af7fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "121de982eca73316",
+  "lastOpenFiles": [
+    "PlayGround.md",
+    "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+    "Untitled.canvas",
+    "pdf/O'REILLY_Alex_Petrov_Database_Internals_A_Deep_Dive_into_How_Distributed.pdf",
+    "Untitled Diagram.svg",
+    "Object Oriented/OOPS.md",
+    "Object Oriented/Design Patterns/Design Patterns Intro.md",
+    "O'REILLY_Alex_Petrov_Database_Internals_A_Deep_Dive_into_How_Distributed.pdf",
+    "pdf",
+    "untitled folder",
+    "Excalidraw/Design Patterns Intro 2024-08-21 00.32.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-21 00.41.54.excalidraw.md",
+    "2024-08-21.md",
+    "Object Oriented",
+    "Excalidraw",
+    "Object Oriented/Design Patterns/Structural/Structural.md",
+    "Communication Protocols/Communication Protocols.md",
+    "Communication Protocols/TCP.md",
+    "Object Oriented/Design Patterns/Creational",
+    "Object Oriented/Design Patterns/Behavioural",
+    "Design Patterns/Structural/Introduction.md",
+    "Object Oriented/Design Patterns/Structural",
+    "2023-11-21.md"
+  ]
+}

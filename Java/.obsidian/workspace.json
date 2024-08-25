@@ -11,13 +11,23 @@
             "id": "121de982eca73316",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
-                "page": 41,
-                "left": -12,
-                "top": 373,
-                "zoom": 1.2070707070707074
+                "file": "Projects todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e4c3fabd26ae25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects todo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+                "file": "Projects todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+                "file": "Projects todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf"
+                "file": "Projects todo.md"
               }
             }
           }
@@ -155,9 +165,16 @@
   },
   "active": "121de982eca73316",
   "lastOpenFiles": [
-    "PlayGround.md",
+    "().md",
+    "Projects todo.md",
+    "Object Oriented/Machine Coding/Setting up things in java.md",
+    "Case studies/Discord billion messages.md",
+    "Object Oriented/Machine Coding",
+    "Case studies/Discord trillion messages.md",
     "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+    "Case studies",
     "Untitled.canvas",
+    "PlayGround.md",
     "pdf/O'REILLY_Alex_Petrov_Database_Internals_A_Deep_Dive_into_How_Distributed.pdf",
     "Untitled Diagram.svg",
     "Object Oriented/OOPS.md",
@@ -174,9 +191,7 @@
     "Communication Protocols/Communication Protocols.md",
     "Communication Protocols/TCP.md",
     "Object Oriented/Design Patterns/Creational",
-    "Object Oriented/Design Patterns/Behavioural",
     "Design Patterns/Structural/Introduction.md",
-    "Object Oriented/Design Patterns/Structural",
     "2023-11-21.md"
   ]
 }

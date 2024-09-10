@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "156ce3a984a207af",
+        "id": "5f85a91e5efa9e37",
         "type": "tabs",
         "children": [
           {
-            "id": "121de982eca73316",
+            "id": "109cdd1c52b613a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4e4c3fabd26ae25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects todo.md",
+                "file": "Distributed systems/Gossip Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#newsystemdesignresource",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects todo.md",
+                "file": "Distributed systems/Gossip Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects todo.md",
+                "file": "Distributed systems/Gossip Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects todo.md"
+                "file": "Distributed systems/Gossip Protocol.md"
               }
             }
           }
@@ -163,34 +151,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "121de982eca73316",
+  "active": "109cdd1c52b613a5",
   "lastOpenFiles": [
-    "().md",
-    "Projects todo.md",
-    "Object Oriented/Machine Coding/Setting up things in java.md",
     "Case studies/Discord billion messages.md",
-    "Object Oriented/Machine Coding",
     "Case studies/Discord trillion messages.md",
+    "Distributed systems/Node recovery.md",
+    "DailyNotes/Tue Sep 03 2024.md",
+    "Untitled.md",
+    "Distributed systems",
+    "DailyNotes/Tue Sep 10 2024.md",
+    "DailyNotes/Wed Sep 04 2024.md",
+    "DailyNotes/Fri Sep 06 2024.md",
+    "Distributed systems/Gossip Protocol.md",
+    "Object Oriented/Design Patterns/Design Patterns Intro.md",
+    "Pasted image 20240910102758.png",
+    "Object Oriented/Machine Coding/Setting up things in java.md",
+    "pdf/Alex_xu_System_Design_Interview.pdf",
+    "pdf/Designing Data Intensive Applications.pdf",
+    "pdf/Grokking the Advanced System Design Interview.pdf",
+    "Multi-threaded Message queues.md",
+    "Projects todo.md",
+    "PlayGround.md",
+    "DailyNotes/Tue-Sep 03 2024.md",
+    "DailyNotes",
     "pdf/[O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf",
+    "().md",
+    "Object Oriented/Machine Coding",
     "Case studies",
     "Untitled.canvas",
-    "PlayGround.md",
     "pdf/O'REILLY_Alex_Petrov_Database_Internals_A_Deep_Dive_into_How_Distributed.pdf",
     "Untitled Diagram.svg",
     "Object Oriented/OOPS.md",
-    "Object Oriented/Design Patterns/Design Patterns Intro.md",
     "O'REILLY_Alex_Petrov_Database_Internals_A_Deep_Dive_into_How_Distributed.pdf",
-    "pdf",
-    "untitled folder",
     "Excalidraw/Design Patterns Intro 2024-08-21 00.32.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-21 00.41.54.excalidraw.md",
     "2024-08-21.md",
-    "Object Oriented",
-    "Excalidraw",
     "Object Oriented/Design Patterns/Structural/Structural.md",
     "Communication Protocols/Communication Protocols.md",
     "Communication Protocols/TCP.md",
-    "Object Oriented/Design Patterns/Creational",
     "Design Patterns/Structural/Introduction.md",
     "2023-11-21.md"
   ]

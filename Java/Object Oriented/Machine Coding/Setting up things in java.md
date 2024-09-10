@@ -10,4 +10,6 @@ Caused by: java.lang.NoClassDefFoundError
 ```
 
 - Always a good practice to keep your members private and expose a getter/setter pair to interact with values
-- 
+
+
+Alternative is maven : setup a barebones java project with maven and let maven handle
